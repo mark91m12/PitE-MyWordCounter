@@ -1,4 +1,4 @@
-### MyWordCounter
+# MyWordCounter
 
 **MyWordCounter** is an implementation of the Linux program WC ([Word Counter](https://en.wikipedia.org/wiki/Wc_(Unix))) 
 
