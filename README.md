@@ -43,7 +43,7 @@ lines number - words number - characters number
 
 **_IN CASE OF NO FILE THE PROGRAM READ STANDARD INPUT_**
 
-(to terminate the std input press <kbd>CTRL</kbd>+<kbd>D</kbd>)
+to terminate the std input press <kbd>CTRL</kbd>+<kbd>D</kbd>
 
 ### Example
 
