@@ -19,7 +19,7 @@ the execution of the program is quite simple, just run the following command ins
 $ python MyWordCounter.py [option] <filename>
 ```
 
-###Possible options :
+### Possible options :
 
 output : number of lines inside the file
 
