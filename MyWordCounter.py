@@ -20,20 +20,20 @@ def count_lines(input):
     global lineCounter
     for line in input:
         lineCounter += 1;
-    print(lineCounter)
+    print("\n",lineCounter)
 
 def count_words(input):
     global wordCounter
     for line in input:
         words = line.split()
         wordCounter += len(words)
-    print(wordCounter)
+    print("\n",wordCounter)
 
 def count_chars(input):
     global charachterCounter
     for line in input:
         charachterCounter += len(list(line))
-    print(charachterCounter)
+    print("\n",charachterCounter)
 
 
 def all_counts(input):
