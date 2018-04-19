@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.6"
+
+# command to install dependencies
+install:
+  - pip install python-coveralls
+
+script:
+  - coverage run Test_WC.py
+
+after_success:
+  - coveralls
