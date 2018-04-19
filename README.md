@@ -1,6 +1,6 @@
 # MyWordCounter
 
-[![Build Status](https://travis-ci.org/mark91m12/PitE-MyWordCounter.svg?branch=master)](https://travis-ci.org/mark91m12/PitE-MyWordCounter) [![Coverage Status](https://coveralls.io/repos/github/mark91m12/PitE-MyWordCounter/badge.svg)](https://coveralls.io/github/mark91m12/PitE-MyWordCounter) [![HitCount](http://hits.dwyl.io/mark91m12/PitE-MyWordCounter.svg)](http://hits.dwyl.io/mark91m12/PitE-MyWordCounter)
+[![Build Status](https://travis-ci.org/mark91m12/PitE-MyWordCounter.svg?branch=master)](https://travis-ci.org/mark91m12/PitE-MyWordCounter) [![Coverage Status](https://coveralls.io/repos/github/mark91m12/PitE-MyWordCounter/badge.svg?branch=master&service=GitHub)](https://coveralls.io/github/mark91m12/PitE-MyWordCounter?branch=master&service=GitHub) [![HitCount](http://hits.dwyl.io/mark91m12/PitE-MyWordCounter.svg)](http://hits.dwyl.io/mark91m12/PitE-MyWordCounter)
 
 
 **MyWordCounter** is an implementation of the Linux program WC ([Word Counter](https://en.wikipedia.org/wiki/Wc_(Unix))) 
